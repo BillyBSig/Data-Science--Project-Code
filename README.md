@@ -26,4 +26,4 @@ Tools:
     - Analyze and visualize sentiment from customer reviews on Yelp data. We can find out what businesses are popular and how customers respond to their experiences.
     
 ### Minor Project
-- Customer Predictions and Discount Suggestions (Bahasa)
+- Customer Predictions and Suggestions (Bahasa)
