@@ -25,5 +25,5 @@ Tools:
 - [Yelp Sentiment Analysis](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Yelp%20Sentiment%20Analysis/Yelp%20Sentiment%20Analysis.ipynb)
     - Analyze and visualize sentiment from customer reviews on Yelp data. We can find out what businesses are popular and how customers respond to their experiences.
     
-### [Minor Project](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Customer%20Predictions%20and%20Suggestions/Customer%20Predictions%20and%20Discount%20Suggestions%20.ipynb)
-- Customer Predictions and Suggestions (Bahasa)
+### Minor Project
+- [Customer Predictions and Suggestions (Bahasa)](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Customer%20Predictions%20and%20Suggestions/Customer%20Predictions%20and%20Discount%20Suggestions%20.ipynb)
