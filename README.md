@@ -1,4 +1,4 @@
-# Data-Science--Portfolio and Code
+# Data-Science--Project and Code
 
 Repository containing portfolio of data science projects completed for self learning and professional purposes. Presented in the form of Jupyter Notebooks.
 
