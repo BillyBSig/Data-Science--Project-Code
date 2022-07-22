@@ -6,7 +6,7 @@ Tools:
 
 - Python: NumPy, Pandas, Seaborn, Matplotlib
 - Machine Learning: Scikit-learn, TensorFlow, Keras
-- Time Series : Statsmodel, pmdarima
+- Time Series : Statsmodel, pmdarima, TensorFlow, Keras
 - NLP : NLTK
 
 ## Contents
@@ -14,6 +14,8 @@ Tools:
 ### Machine Learning
 - [Healthcare Provider Fraud Detection Analysis](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Healthcare%20Provider%20Fraud%20Detection%20Analysis/Healthcare%20Provider%20Fraud.ipynb)
     - A model for predicting fraud or non-fraud on healthcare using various classification tools. Detect based on fraudulent behavior by providers so the insurance companies can reject or investigate claims using machine learning.
+- [Safety Driving Detection using CNN](https://github.com/BillyBSig/Data-Science--Project-Code/blob/main/Safety%20Driving%20Detection/Safety%20Driving%20Detection.ipynb)
+    - Predict safe or unsafe driving image classification
     
 ### Forecasting
 - [Weekly Fuel Price Forecasting](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Weekly%20Fuel%20Price%20Forecasting/Weekly%20Fuel%20Price%20Forecasting(MA%20LR)%20.ipynb)
@@ -24,3 +26,5 @@ Tools:
 ### NLP
 - [Yelp Sentiment Analysis](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Yelp%20Sentiment%20Analysis/Yelp%20Sentiment%20Analysis.ipynb)
     - Analyze and visualize sentiment from customer reviews on Yelp data. We can find out what businesses are popular and how customers respond to their experiences.
+- [Text Emotion Classification using LSTM](https://github.com/BillyBSig/Data-Science--Project-Code/blob/main/Text%20Emotion%20Classification%20using%20LSTM/Text%20Emotion%20Classification.ipynb)
+    - Predict emotions (joy, sadness, anger, fear, love, and surprise) from text using LSTM model
