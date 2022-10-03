@@ -7,7 +7,7 @@ Tools:
 - Python: NumPy, Pandas, Seaborn, Matplotlib
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 - Time Series : Statsmodel, pmdarima, TensorFlow, Keras
-- NLP : NLTK
+- NLP : NLTK, TensorFlow, Keras
 
 ## Contents
 
