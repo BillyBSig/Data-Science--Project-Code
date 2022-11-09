@@ -32,5 +32,5 @@ Tools:
     - Predict emotions (joy, sadness, anger, fear, love, and surprise) from text using LSTM model
     
 ### Data Analysis
-- [E-Commerce Data Analysis]()
+- [E-Commerce Data Analysis](https://github.com/BillyBSig/Data-Science--Project-Code/blob/main/E-Commerce%20Data%20Analysis/Ecommerce_Data_Analysis.ipynb)
     - Analyze and visualize data to gain insights from E-commerce data
