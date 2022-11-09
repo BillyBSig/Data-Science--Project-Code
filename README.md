@@ -30,3 +30,7 @@ Tools:
     - Analyze and visualize sentiment from customer reviews on Yelp data. We can find out what businesses are popular and how customers respond to their experiences.
 - [Text Emotion Classification using LSTM](https://github.com/BillyBSig/Data-Science--Project-Code/blob/main/Text%20Emotion%20Classification%20using%20LSTM/Text%20Emotion%20Classification.ipynb)
     - Predict emotions (joy, sadness, anger, fear, love, and surprise) from text using LSTM model
+    
+### Data Analysis
+- [E-Commerce Data Analysis]()
+    - Analyze and visualize data to gain insights from E-commerce data
