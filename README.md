@@ -22,7 +22,7 @@ Tools:
     - Create a forecasting model to forecast weekly petrol and diesel prices using a combination of forecasting and regression methods. The fluctuations are often unpredictable, so this method can adjust for changes.
 - [Netflix Stock Price Forecasting](https://github.com/BillyBSig/Data-Science--Portfolio/blob/main/Netflix%20Price%20Stock%20Forecasting/Netflix%20Price%20Stock%20Forecasting%20.ipynb)
     - Forecasting model to predict the Netflix closing stock price using the forecasting methods, with exogenous variables. This model focus to predict the daily closing price, it can help for daily trading.
-- [Google Stock Price Forecasting LSTM](https://github.com/BillyBSig/Data-Science--Project-Code/blob/main/Google%20Stock%20Price%20Forecasting%20Using%20LSTM/Google%20Stock%20Price%20Forecasting%20.ipynb)
+- [Google Stock Price Forecasting LSTM](https://github.com/BillyBSig/Data-Science-Project-Code-Collect/blob/main/Google%20Stock%20Price%20Forecasting%20Using%20LSTM/Google_Stock_Price_Forecasting_.ipynb)
     - Forecast the Google stock price using LSTM model
 
 ### NLP
